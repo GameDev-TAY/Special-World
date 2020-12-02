@@ -100,7 +100,7 @@ The skills that the player will need to play the game are:
   * **What is the plot of the game - what happens during the game and how does the player affect the plot?**
   
  **7. Who are the characters?**
-  * **What are their features, what is their role in the game, and what will they look like?
+  * **What are their features, what is their role in the game, and what will they look like?**
 
   * **Key characters - who will be the "hero" and who is the main "opponent"?**
   
