@@ -65,6 +65,20 @@ The skills that the player will need to play the game are:
     
 <br />
 
+**3. What are the objects?** <br />
+     
+ * **An essential object for achieving the goals (main quest object)?**
+     The pieces of the map that the player must collect <br />
+ * **Non-essential but helpful player (resource)?**
+     The objects are resources that will help him overcome the various obstacles in this city or they will help him perform the various tasks.
+     The player will roam around the city and there he will find the resources. The resources will be located in hidden places around the city.
+     The game will not let the player know where the resources are located and if he finds them he will win something that will make him feel happy and satisfied and lucky. 
+     The resources are not really needed but only extra. The player knew how many resources are available to him by his travel backpack that will be displayed on the screen from      the bottom right. <br />
+ * **A neutral object?**
+     The people who live in the city.
+ * **An object that bothers the player (obstacle)?**
+ The player will encounter obstacles only during missions. The objects will change depending on the task.
+
 **4. What are the options?** <br />
  * **What levels of difficulty will there be in the game? What will be the differences between different difficulty levels?**
 
