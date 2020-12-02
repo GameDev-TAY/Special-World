@@ -109,10 +109,27 @@ The skills that the player will need to play the game are:
   
 ### ***Stages in the game***
 ***
+Our "stages" are basically the cities, below are the 4 missions in each city.
+The difference between the cities is the population with disabilities that will be integrated together with the regular population, in each city there will be only one disability and people without disabilities.
+Except for the incinerator where the player will find the treasure in which everyone will be integrated into the population.
+
   * **First city:**
+  In a city characterized by deafness and hard of hearing the player will have to learn a simple and everyday sentence in sign language and after he has managed to learn it he     will get the following hint.
+  For us to know that he managed to do the sentence well his camera will be open and he will do the movement and with the help of image processing we can tell if 
+  he did them  well.
+  
   * **Second city:**
+  In the city of the blind and visually impaired the player will reach a very large maze from which he has to get out, but he will not be able to get out because he 
+  sees but because the character will be joined by a dog who will lead the player and warn him of mines.
+  This stage will be darkened a bit but just for the sake of illustration, the player will still see.
+  
   * **Third city:**
+      In a city characterized by paraplegia, the player will reach a racetrack and will have to win the competition. The player will of course get the customized wheelchair and       will have to figure out how to overcome the experienced people.
+      Note that this really does exist in reality: racing chairs are chairs with a unique chassis and three wheels. The grip rims on the large wheels are smaller than usual rims       and their function is not to spare the user contact with the tire, but to allow him to grip them and the tire alternately and thus create a kind of two-speed drive system.       The large wheel planes are not vertical to the floor.
   * **Fourth city:**
+     In a city characterized by dementia the player will have to get to a certain place within a few minutes he will have to follow a route on the map and if he does not have        enough time (he will have a timer clock that will measure how much time he has) then the world will turn
+     And another route will be marked on the map.
+     This task demonstrates how people with dementia feel they are forgetting how to get to a particular place.
   
   
 ### ***Market Survey***
