@@ -110,6 +110,8 @@ The skills that the player will need to play the game are:
 
  * **What options will the external features of the game have? (Brightness, sound, etc.)** <br />
      Some missions will have background music
+     
+ <img src="https://user-images.githubusercontent.com/57855070/100934148-0297c780-34f7-11eb-9ef0-73c1e9f8c1e2.png" width="400" height="400" />
  
  **5. What is the world?** <br />
  
