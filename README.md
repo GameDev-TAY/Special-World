@@ -87,10 +87,18 @@ The skills that the player will need to play the game are:
 
 ------
  * **What levels of difficulty will there be in the game? What will be the differences between different difficulty levels?**
+     In our game there are no levels and each task will be on its own.
 
  * **What types of players will be in the game?**
+     * **The artist:** will be reflected in the volunteer assignments.
+     * **The Explorer:** Will be reflected in the player's ability to roam the city.
+     * **Collector:** Will be reflected in the player's ability to gather resources.
+     * **The builder:** will be reflected in the volunteer assignments.
+     * **Competitive:** There will be "Hall of Fame" tables and this will be reflected in the following:
+         Each player will be measured a total time of the missions in the city and according to this will be ranked in the "Hall of Fame" of the city.
 
- * **What options will the external features of the game have? (Brightness, sound, etc.)**
+ * **What options will the external features of the game have? (Brightness, sound, etc.)** <br />
+     Some missions will have background music
  
  **5. What is the world?** <br />
  
