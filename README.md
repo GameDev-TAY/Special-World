@@ -144,8 +144,8 @@ As a result, the player spends most of their time at the edges of the playground
 In our game the player will be healthy but he will learn about different disabilities during the game by watching them and interacting with people with disabilities.
 The approaches of the two games to displaying disabilities are different but for the same purpose: raising awareness about people with disabilities.
 While in our game the player will discover some different disabilities in this game the player experiences only one disability.
-In our opinion, our game has the advantage of attracting a target audience that connects to the subject over the second game, because our game is also combined with the plot of an adventure game, and we think children and adults are more likely to want to play it.
-Link: http://www.gamesforchange.org/game/auti-sim/
-Gameplay: https://www.youtube.com/watch?v=VdLsFPi7FgY
+In our opinion, our game has the advantage of attracting a target audience that connects to the subject over the second game, because our game is also combined with the plot of an adventure game, and we think children and adults are more likely to want to play it. <br />
+Link: http://www.gamesforchange.org/game/auti-sim/ <br />
+Gameplay: https://www.youtube.com/watch?v=VdLsFPi7FgY <br />
 
  
