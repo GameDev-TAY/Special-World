@@ -74,6 +74,7 @@ The skills that the player will need to play the game are:
     * The player has to complete a final mission to get the lost treasure.
     
 <img src="https://user-images.githubusercontent.com/57855070/100930564-f0fff100-34f1-11eb-9e54-7028f46fe1cf.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/57855070/100933065-73d67b00-34f5-11eb-9447-c5ffe3eddd20.jpeg" width="200" height="200" />
     
 <br />
 
@@ -92,7 +93,7 @@ The skills that the player will need to play the game are:
  * **An object that bothers the player (obstacle)?**
  The player will encounter obstacles only during missions. The objects will change depending on the task.
  
- <img src="(https://user-images.githubusercontent.com/57855070/100931546-57d1da00-34f3-11eb-9990-cc85d8c84a60.png" width="400" height="400" />
+ <img src="https://user-images.githubusercontent.com/57855070/100933155-99638480-34f5-11eb-8474-a6f0541709c9.png" width="400" height="400" />
 
 **4. What are the options?** <br />
 
