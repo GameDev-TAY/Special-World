@@ -205,6 +205,8 @@ Our advantage over this game is that in our game we give players added value. <b
 Link: https://ultima.fandom.com/wiki/Ultima_IV_Locations_Map <br />
 Gameplay: https://www.youtube.com/watch?v=nLuRW65kAmY <br />
 
+<img src="https://user-images.githubusercontent.com/57855070/100936326-011bce80-34fa-11eb-877c-1227891908b9.jpg" width="300" height="300" />
+
 **2. See No Evil:**
 
 It is a dark, isometric puzzle game that deals with voice manipulations that simulate the behavior of the blind. A difficult fantasy in which the willingly blind are afraid of <br />
@@ -216,6 +218,8 @@ We think our game will be more understandable to children because of its simpler
 Link: https://www.rockpapershotgun.com/2014/06/09/eyes-wide-shut-see-no-evil/ <br />
 Gameplay: https://www.youtube.com/watch?v=amqv4GMY3EI <br />
 
+<img src="https://user-images.githubusercontent.com/57855070/100936416-28729b80-34fa-11eb-83ad-bf20e5ba6539.jpg" width="300" height="300" />
+
 **3. Auti-Sim:**
 
 Auti-Sim attempts to simulate the experience of a child with autism, presenting an experience of auditory hypersensitivity on a school playground. The idea is quite simple: the player walks around a school playground, full of talking children. As they approach the children, the noise level increases, creating a total static of visual blur and audio distortion. This mechanic assaults the player at a primary level, and makes it quite difficult to stay around the other children for any extended period of time.
@@ -226,5 +230,7 @@ While in our game the player will discover some different disabilities in this g
 In our opinion, our game has the advantage of attracting a target audience that connects to the subject over the second game, because our game is also combined with the plot of an adventure game, and we think children and adults are more likely to want to play it. <br />
 Link: http://www.gamesforchange.org/game/auti-sim/ <br />
 Gameplay: https://www.youtube.com/watch?v=VdLsFPi7FgY <br />
+
+<img src="https://user-images.githubusercontent.com/57855070/100936506-4cce7800-34fa-11eb-9735-158ef12d427d.jpg" width="300" height="300" />
 
  
