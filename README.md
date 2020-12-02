@@ -104,11 +104,17 @@ The skills that the player will need to play the game are:
  
 ------
   * **Will the world be closed or open? Round or flat?**
+    The world will be closed but it instilled a sense of open world.
   
   * **Are the laws of physics, nature, geography, history, economics, society and politics in your world?**
+      All the laws of nature will be the same as the laws of nature in the real world.
+      In terms of geography the amount of cities that will be in the world will be as the amount of disabilities that the game will focus on.
+      In terms of economics, there will be no money and trade but there will be the resources that the player finds in the world in order to make it easier for him to 
+      get through missions.
+      Society will be a more egalitarian society than in the real world.
   
    * **What rules will limit the player's actions in the game?**
-   * **By what rules will the results of actions in the game be determined?**
+   * The player cannot move between cities if he has failed the mission of the current city in which he is located.
    
  **6. What's the story?**
  
@@ -165,7 +171,8 @@ Except for the incinerator where the player will find the treasure in which ever
   
 ### ***Market Survey***
 ***
-**1.Ultima IV - Quest of the Avatar: **
+
+**1.Ultima IV - Quest of the Avatar:**
 
 The game tells the story of Daemons, dragons, and long-dead wizards still plague the countryside and must be destroyed. The seeker on the path of the Avatar will face hostile groups composed of mixed enemy types and will survive such encounters only by strategic use of weapons and terrain.
 It is also an adventure game where the main player moves between cities where he has to do missions to reach the ultimate goal. In our game there will be no imaginary creatures.
