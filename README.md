@@ -141,6 +141,8 @@ The skills that the player will need to play the game are:
       Example of volunteering: If the player arrives at a neglected school and is given the opportunity to arrange and reshape it, if he decides to do so we will bring him all         the resources he needs for this he will not have to look for them.
       The player's behavior will actually determine at what pace the plot will develop. He may move between cities very quickly because he will not do volunteer tasks 
       and look for fewer resources, or he will be able to roam around the city a lot looking for resources and doing volunteer tasks other than the mandatory tasks.
+      
+<img src="https://user-images.githubusercontent.com/57855070/100934399-59050600-34f7-11eb-8f32-9c3bb30097cb.png" width="400" height="400" />
 
  **7. Who are the characters?**
  
