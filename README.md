@@ -205,7 +205,7 @@ Our advantage over this game is that in our game we give players added value. <b
 Link: https://ultima.fandom.com/wiki/Ultima_IV_Locations_Map <br />
 Gameplay: https://www.youtube.com/watch?v=nLuRW65kAmY <br />
 
-<img src="https://user-images.githubusercontent.com/57855070/100936326-011bce80-34fa-11eb-877c-1227891908b9.jpg" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/57855070/100936326-011bce80-34fa-11eb-877c-1227891908b9.jpg" width="300" height="200" />
 
 **2. See No Evil:**
 
@@ -218,7 +218,7 @@ We think our game will be more understandable to children because of its simpler
 Link: https://www.rockpapershotgun.com/2014/06/09/eyes-wide-shut-see-no-evil/ <br />
 Gameplay: https://www.youtube.com/watch?v=amqv4GMY3EI <br />
 
-<img src="https://user-images.githubusercontent.com/57855070/100936416-28729b80-34fa-11eb-83ad-bf20e5ba6539.jpg" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/57855070/100936416-28729b80-34fa-11eb-83ad-bf20e5ba6539.jpg" width="300" height="200" />
 
 **3. Auti-Sim:**
 
@@ -231,6 +231,6 @@ In our opinion, our game has the advantage of attracting a target audience that 
 Link: http://www.gamesforchange.org/game/auti-sim/ <br />
 Gameplay: https://www.youtube.com/watch?v=VdLsFPi7FgY <br />
 
-<img src="https://user-images.githubusercontent.com/57855070/100936506-4cce7800-34fa-11eb-9735-158ef12d427d.jpg" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/57855070/100936506-4cce7800-34fa-11eb-9735-158ef12d427d.jpg" width="300" height="200" />
 
  
