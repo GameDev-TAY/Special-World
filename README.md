@@ -50,7 +50,7 @@ The skills that the player will need to play the game are:
      **Controls that the player will use:** <br />
      It will be possible to skip the video by the "Skip" button, and this will be done by clicking the mouse.
 
-<img src="https://user-images.githubusercontent.com/57855070/100926605-62d53c00-34ec-11eb-8372-d719d40f49d4.png" width="600" height="400" />
+<img src="https://user-images.githubusercontent.com/57855070/100927914-31f60680-34ee-11eb-990d-d03df3c3d746.png" width="600" height="400" />
 
  * **The core process of the game -**
      The player will move between cities when his main process will be to collect the missing piece on the map belonging to that city. 
