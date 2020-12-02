@@ -73,8 +73,7 @@ The skills that the player will need to play the game are:
     * The player must achieve 8 pieces of map.
     * The player has to complete a final mission to get the lost treasure.
     
-<img src="https://user-images.githubusercontent.com/57855070/100930564-f0fff100-34f1-11eb-9e54-7028f46fe1cf.png" width="200" height="200" />
-<img src="https://user-images.githubusercontent.com/57855070/100933065-73d67b00-34f5-11eb-9447-c5ffe3eddd20.jpeg" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/57855070/100930564-f0fff100-34f1-11eb-9e54-7028f46fe1cf.png" width="200" height="200" /> <img src="https://user-images.githubusercontent.com/57855070/100933065-73d67b00-34f5-11eb-9447-c5ffe3eddd20.jpeg" width="200" height="200" />
     
 <br />
 
