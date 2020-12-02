@@ -114,17 +114,28 @@ The skills that the player will need to play the game are:
  
 ------
   * **What is the background story of the game - what happened before the game started?**
+      The plot is based on finding a lost treasure, when an evil character cuts a map into 8 parts and each part of the map is hidden in a different city. 
+      The player will enter the plot as a character whose goal is to find the 8 pieces to put together the complete map and find the lost treasure.
   
   * **What is the plot of the game - what happens during the game and how does the player affect the plot?**
-  
+      During the plot of the game the player can perform volunteer tasks.
+      Example of volunteering: If the player arrives at a neglected school and is given the opportunity to arrange and reshape it, if he decides to do so we will bring him all         the resources he needs for this he will not have to look for them.
+      The player's behavior will actually determine at what pace the plot will develop. He may move between cities very quickly because he will not do volunteer tasks 
+      and look for fewer resources, or he will be able to roam around the city a lot looking for resources and doing volunteer tasks other than the mandatory tasks.
+
  **7. Who are the characters?**
  
 ------
   * **What are their features, what is their role in the game, and what will they look like?**
 
   * **Key characters - who will be the "hero" and who is the main "opponent"?**
+  The "hero" will be the player, the main opponent will appear in the background story but will not actively appear during the game.
   
   * **Secondary characters - who will they be, and what will each one add to the player experience?**
+      The secondary characters will have the various disabilities that will be the residents of the city (it should be noted that ordinary people will also live there and 
+      the player will see an integrated and equal society). These characters will add to the player's experience the feeling of mutual guarantee when there are tasks that 
+      the player will need the help of these characters in order to succeed in the mission or share in tasks in which he interacts with them. In addition, they will 
+      contribute to the player's experience by evoking the emotions like: Feelings of partnership, connection and friendship with people with disabilities, giving.
   
   
 ### ***Stages in the game***
