@@ -67,9 +67,13 @@ The skills that the player will need to play the game are:
      **Controls that the player will use:** <br />
      During the missions the player will use the mouse and keyboard and sometimes also the camera
      
+<img src="https://user-images.githubusercontent.com/57855070/100929980-1ccea700-34f1-11eb-88ca-69f59afaa699.png" width="600" height="400" />
+     
  * **What goals does the player have to achieve to win the game?**
     * The player must achieve 8 pieces of map.
     * The player has to complete a final mission to get the lost treasure.
+    
+<img src="https://user-images.githubusercontent.com/57855070/100930564-f0fff100-34f1-11eb-9e54-7028f46fe1cf.png" width="200" height="200" />
     
 <br />
 
