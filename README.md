@@ -88,9 +88,11 @@ The skills that the player will need to play the game are:
      The game will not let the player know where the resources are located and if he finds them he will win something that will make him feel happy and satisfied and lucky. 
      The resources are not really needed but only extra. The player knew how many resources are available to him by his travel backpack that will be displayed on the screen from      the bottom right. <br />
  * **A neutral object?**
-     The people who live in the city.
+     The people who live in the city.And also nature, Structures.
  * **An object that bothers the player (obstacle)?**
  The player will encounter obstacles only during missions. The objects will change depending on the task.
+ 
+ <img src="https://user-images.githubusercontent.com/57855070/100931546-57d1da00-34f3-11eb-9990-cc85d8c84a60.png" width="400" height="400" />
 
 **4. What are the options?** <br />
 
