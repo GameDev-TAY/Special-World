@@ -33,6 +33,7 @@ The skills that the player will need to play the game are:
      * On the top right the map of the city.
      * From the bottom right the player will be able to see all the resources he has accumulated.
      * At the top left there will be a button that can be clicked and there will be a summary of the hint he received, i.e. what to look for.
+     * On the top left the amount of pieces he has already collected
      * In the rest of the screen the player will see the city in which he is from the point of view of the actor in the world.
   
  * What will the player see if he reaches the screen borders and if possible cross the boundaries of the screen? <br />
