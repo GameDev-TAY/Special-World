@@ -12,7 +12,7 @@ The game "Special World" is a unique adventure game which is suitable for people
 Unlike games that deal with a specific disability, here will be an overview of 8 types of disabilities within one game!
 This is a different game content and experience from the rest of the games, which will make people attracted to the game.
 
-**Platform:** Computer <br />
+**Platform:** PC <br />
 
 **Who the game is for:** <br />
 The game is for single player.
