@@ -49,6 +49,10 @@ The skills that the player will need to play the game are:
      hint in which area of the city his mission is and will be explained that only after completing the task can he get the piece on the map. <br />
      **Controls that the player will use:** <br />
      It will be possible to skip the video by the "Skip" button, and this will be done by clicking the mouse.
+     
+     <img align="left" width="600px" src="https://user-images.githubusercontent.com/57855070/100925429-aaf35f00-34ea-11eb-802d-78e9fa76869f.png"/>
+
+<br />
 
  * **The core process of the game -**
      The player will move between cities when his main process will be to collect the missing piece on the map belonging to that city. 
