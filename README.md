@@ -85,6 +85,67 @@ The skills that the player will need to play the game are:
  * **What types of players will be in the game?**
 
  * **What options will the external features of the game have? (Brightness, sound, etc.)**
-
+ 
+ **5. What is the world?** <br />
+  * **Will the world be closed or open? Round or flat?**
+  
+  * **Are the laws of physics, nature, geography, history, economics, society and politics in your world?**
+  
+   * **What rules will limit the player's actions in the game?**
+   * **By what rules will the results of actions in the game be determined?**
    
+ **6. What's the story?**
+  * **What is the background story of the game - what happened before the game started?**
+  
+  * **What is the plot of the game - what happens during the game and how does the player affect the plot?**
+  
+ **7. Who are the characters?**
+  * **What are their features, what is their role in the game, and what will they look like?
+
+  * **Key characters - who will be the "hero" and who is the main "opponent"?**
+  
+  * **Secondary characters - who will they be, and what will each one add to the player experience?**
+  
+  
+### ***Stages in the game***
+***
+  * **First city:**
+  * **Second city:**
+  * **Third city:**
+  * **Fourth city:**
+  
+  
+### ***Market Survey***
+***
+**1.Ultima IV - Quest of the Avatar: **
+
+The game tells the story of Daemons, dragons, and long-dead wizards still plague the countryside and must be destroyed. The seeker on the path of the Avatar will face hostile groups composed of mixed enemy types and will survive such encounters only by strategic use of weapons and terrain.
+It is also an adventure game where the main player moves between cities where he has to do missions to reach the ultimate goal. In our game there will be no imaginary creatures.
+But in our game the missions that a player will do will be related to a certain disability and the population in each city will vary according to the disability of the stage.
+Our advantage over this game is that in our game we give players added value. <br />
+Link: https://ultima.fandom.com/wiki/Ultima_IV_Locations_Map <br />
+Gameplay: https://www.youtube.com/watch?v=nLuRW65kAmY <br />
+
+**2. See No Evil:**
+
+It is a dark, isometric puzzle game that deals with voice manipulations that simulate the behavior of the blind. A difficult fantasy in which the willingly blind are afraid of <br />
+what they do not understand and are hostile to the nonconformist who opposes the rules of society (the main character). Sometimes the world seems darker with eyes open. <br />
+The actor plays a character who begins as blind and during the game becomes a seer and aims to understand what has darkened her world, the character is guided by a diary she  found in prison from which she must be released, all through the voice manipulations returned objects and played proactively by the character. <br />
+The game deals only with blindness while our game deals with exposing the player to some disabilities. <br />
+The approaches of the two games to displaying disabilities are different but for the same purpose: raising awareness about people with disabilities. <br />
+We think our game will be more understandable to children because of its simpler background story, which is an advantage for attracting a larger audience. <br />
+Link: https://www.rockpapershotgun.com/2014/06/09/eyes-wide-shut-see-no-evil/ <br />
+Gameplay: https://www.youtube.com/watch?v=amqv4GMY3EI <br />
+
+**3. Auti-Sim:**
+
+Auti-Sim attempts to simulate the experience of a child with autism, presenting an experience of auditory hypersensitivity on a school playground. The idea is quite simple: the player walks around a school playground, full of talking children. As they approach the children, the noise level increases, creating a total static of visual blur and audio distortion. This mechanic assaults the player at a primary level, and makes it quite difficult to stay around the other children for any extended period of time.
+As a result, the player spends most of their time at the edges of the playground, isolated from the rest of the world. The silence then becomes as powerful as the sound.
+In our game the player will be healthy but he will learn about different disabilities during the game by watching them and interacting with people with disabilities.
+The approaches of the two games to displaying disabilities are different but for the same purpose: raising awareness about people with disabilities.
+While in our game the player will discover some different disabilities in this game the player experiences only one disability.
+In our opinion, our game has the advantage of attracting a target audience that connects to the subject over the second game, because our game is also combined with the plot of an adventure game, and we think children and adults are more likely to want to play it.
+Link: http://www.gamesforchange.org/game/auti-sim/
+Gameplay: https://www.youtube.com/watch?v=VdLsFPi7FgY
+
  
