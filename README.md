@@ -62,6 +62,13 @@ The skills that the player will need to play the game are:
  * **What goals does the player have to achieve to win the game?**
     * The player must achieve 8 pieces of map.
     * The player has to complete a final mission to get the lost treasure.
+<br />
+**4. What are the options?** <br />
+ * **What levels of difficulty will there be in the game? What will be the differences between different difficulty levels?**
+
+ * **What types of players will be in the game?**
+
+ * **What options will the external features of the game have? (Brightness, sound, etc.)**
 
    
  
