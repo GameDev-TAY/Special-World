@@ -27,7 +27,8 @@ The skills that the player will need to play the game are:
 ***
 
 **1. What do you see?** <br />
- 
+
+------
  * On the computer screen you will see: <br />
      * On the top right the map of the city.
      * From the bottom right the player will be able to see all the resources he has accumulated.
@@ -38,6 +39,8 @@ The skills that the player will need to play the game are:
    He will see a sea he cannot cross.
    
 **2. What do you do in the game?** <br />
+
+------
  * **The process of starting the game -**
      At the beginning of the game, a video will be shown to the player that describes the background story: that there is a lost treasure and that in order 
      to find it, the player must find 8 different map pieces.
@@ -66,7 +69,8 @@ The skills that the player will need to play the game are:
 <br />
 
 **3. What are the objects?** <br />
-     
+
+------
  * **An essential object for achieving the goals (main quest object)?**
      The pieces of the map that the player must collect <br />
  * **Non-essential but helpful player (resource)?**
@@ -80,6 +84,8 @@ The skills that the player will need to play the game are:
  The player will encounter obstacles only during missions. The objects will change depending on the task.
 
 **4. What are the options?** <br />
+
+------
  * **What levels of difficulty will there be in the game? What will be the differences between different difficulty levels?**
 
  * **What types of players will be in the game?**
@@ -87,6 +93,8 @@ The skills that the player will need to play the game are:
  * **What options will the external features of the game have? (Brightness, sound, etc.)**
  
  **5. What is the world?** <br />
+ 
+------
   * **Will the world be closed or open? Round or flat?**
   
   * **Are the laws of physics, nature, geography, history, economics, society and politics in your world?**
@@ -95,11 +103,15 @@ The skills that the player will need to play the game are:
    * **By what rules will the results of actions in the game be determined?**
    
  **6. What's the story?**
+ 
+------
   * **What is the background story of the game - what happened before the game started?**
   
   * **What is the plot of the game - what happens during the game and how does the player affect the plot?**
   
  **7. Who are the characters?**
+ 
+------
   * **What are their features, what is their role in the game, and what will they look like?**
 
   * **Key characters - who will be the "hero" and who is the main "opponent"?**
