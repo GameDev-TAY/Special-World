@@ -16,7 +16,7 @@ This is a different game content and experience from the rest of the games, whic
 
 **Who the game is for:** <br />
 The game is for single player.
-The game is intended for people of all ages who like the genre of adventure games and the feeling of the open world. The game does not require special talent and prior knowledge.
+The game is intended for people of all ages who like the genre of adventure games and the feeling of "open world" in the game. The game does not require special talent and prior knowledge.
 The skills that the player will need to play the game are:
 1. Ability to self-learn and rapid absorption in tasks that will require him to learn new things.
 2. Patience because the player will have to look for the part on the map within the city.
