@@ -92,7 +92,7 @@ The skills that the player will need to play the game are:
  * **An object that bothers the player (obstacle)?**
  The player will encounter obstacles only during missions. The objects will change depending on the task.
  
- <img src="https://user-images.githubusercontent.com/57855070/100931546-57d1da00-34f3-11eb-9990-cc85d8c84a60.png" width="400" height="400" />
+ <img src="(https://user-images.githubusercontent.com/57855070/100931546-57d1da00-34f3-11eb-9990-cc85d8c84a60.png" width="400" height="400" />
 
 **4. What are the options?** <br />
 
