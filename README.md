@@ -111,7 +111,7 @@ The skills that the player will need to play the game are:
  * **What options will the external features of the game have? (Brightness, sound, etc.)** <br />
      Some missions will have background music
      
- <img src="https://user-images.githubusercontent.com/57855070/100934148-0297c780-34f7-11eb-9ef0-73c1e9f8c1e2.png" width="400" height="400" />
+ <img src="https://user-images.githubusercontent.com/57855070/100934148-0297c780-34f7-11eb-9ef0-73c1e9f8c1e2.png" width="300" height="300" />
  
  **5. What is the world?** <br />
  
@@ -142,7 +142,15 @@ The skills that the player will need to play the game are:
       The player's behavior will actually determine at what pace the plot will develop. He may move between cities very quickly because he will not do volunteer tasks 
       and look for fewer resources, or he will be able to roam around the city a lot looking for resources and doing volunteer tasks other than the mandatory tasks.
       
-<img src="https://user-images.githubusercontent.com/57855070/100934399-59050600-34f7-11eb-8f32-9c3bb30097cb.png" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/57855070/100934399-59050600-34f7-11eb-8f32-9c3bb30097cb.png" width="300" height="300" />
+
+    1. Start of game - Wander around the city.
+    2. Volunteering.
+    3. Wandering around the city.
+    4. Performing a mandatory task.
+    5. Performing a mandatory task again due to failure.
+    6. Completion of a mandatory task.
+    7. Walk to the lost treasure and end the game.
 
  **7. Who are the characters?**
  
@@ -157,7 +165,8 @@ The skills that the player will need to play the game are:
       the player will see an integrated and equal society). These characters will add to the player's experience the feeling of mutual guarantee when there are tasks that 
       the player will need the help of these characters in order to succeed in the mission or share in tasks in which he interacts with them. In addition, they will 
       contribute to the player's experience by evoking the emotions like: Feelings of partnership, connection and friendship with people with disabilities, giving.
-  
+     
+<img src="https://user-images.githubusercontent.com/57855070/100935902-68854e80-34f9-11eb-8a18-38f210fac1dc.png" width="300" height="300" />
   
 ### ***Stages in the game***
 ***
