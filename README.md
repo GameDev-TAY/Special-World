@@ -58,6 +58,8 @@ The skills that the player will need to play the game are:
      Tasks will vary between each city and may touch on a disability-related issue that characterizes the city. <br />
       **Controls that the player will use:** <br />
       During the missions the player will use the mouse and keyboard and sometimes also the camera
+      
+ <img src="https://user-images.githubusercontent.com/57855070/100928902-851c8900-34ef-11eb-8e93-d13062b54a75.png" width="600" height="400" />
 
  * **The process of finishing the game -**
      Once the map is complete the player will be able to move to another city where we will combine all the people with the various disabilities the player saw in the game 
