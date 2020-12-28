@@ -9,6 +9,7 @@ public class LightSwitch : MonoBehaviour
     [SerializeField] GameObject[] Lights;
     [SerializeField] GameObject trigger;
     [SerializeField] GameObject CorrectSwitch;
+    [SerializeField] Material[] Emissions;
     public GameObject LastSwitch;
     private AudioSource Click;
     public bool onSwitch; //Change to private
@@ -41,8 +42,11 @@ public class LightSwitch : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
-                foreach(GameObject l in Lights)
-                l.GetComponent<Light>().enabled = !l.GetComponent<Light>().enabled;
+                foreach(GameObject l in Lights) l.GetComponent<Light>().enabled = !l.GetComponent<Light>().enabled;
+                foreach (Material m in Emissions){
+                    if (m.IsKeywordEnabled("_EMISSION")) m.DisableKeyword("_EMISSION");
+                    else m.EnableKeyword("_EMISSION");
+                }
                 trigger.GetComponent<Transform>().Rotate(0,0,90f);
                 Click.Play();
                 this.GetComponent<AudioSource>().Stop();
