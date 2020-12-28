@@ -6,7 +6,7 @@ using UnityEngine;
 public class LightSwitch : MonoBehaviour
 {
 
-    [SerializeField] GameObject Light;
+    [SerializeField] GameObject[] Lights;
     [SerializeField] GameObject trigger;
     [SerializeField] GameObject CorrectSwitch;
     public GameObject LastSwitch;
@@ -41,7 +41,8 @@ public class LightSwitch : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
-                Light.GetComponent<Light>().enabled = !Light.GetComponent<Light>().enabled;
+                foreach(GameObject l in Lights)
+                l.GetComponent<Light>().enabled = !l.GetComponent<Light>().enabled;
                 trigger.GetComponent<Transform>().Rotate(0,0,90f);
                 Click.Play();
                 this.GetComponent<AudioSource>().Stop();
@@ -53,7 +54,7 @@ public class LightSwitch : MonoBehaviour
     {
         if (onSwitch)
         {
-            if (Light.GetComponent<Light>().enabled)
+            if (Lights[0].GetComponent<Light>().enabled)
             {
                 GUI.Box(new Rect(0, 0, 200, 20), "Press E to close the light");
             }
